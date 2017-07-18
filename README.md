@@ -41,9 +41,19 @@
 5. 将dev的修改推送到远程库的dev分支。 
 
 ## 7. 把dev的修改 rebase到 master ##
-
-理解一下 merge 和 rebase的差别
-http://blog.csdn.net/wh_19910525/article/details/7554489
+1. 把dev的修改 rebase到 master
+2. 理解一下 merge 和 rebase的差别
+[http://blog.csdn.net/wh_19910525/article/details/7554489](http://blog.csdn.net/wh_19910525/article/details/7554489)
 
 
 ## 8. 打一个V1.0的tag ##
+
+1. 打一个V1.0的tag
+2. 更改 readme.md的内容(内容任意)
+3. 将 test1.txt的修改添加到暂存区，commit的注释为 `"仅供测试的readme提交"`
+4. 将readme.md的修改推送到远程库的dev分支。 
+
+## 9. 打一个V1.1的tag ##
+1. 打一个V1.1的tag
+
+## 10. 删除 dev_test 分支 ##
